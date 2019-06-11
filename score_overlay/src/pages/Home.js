@@ -1,8 +1,8 @@
 import React from 'react';
-import Counter from "../components/Counter.js";
+import Ui from "../components/Ui.js";
 
 export default function Home() {
     return (
-        <Counter/>
+        <Ui/>
     );
 }
